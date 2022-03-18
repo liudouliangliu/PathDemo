@@ -21,6 +21,18 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btn_spanner).setOnClickListener {
             startActivity(Intent(this,SpannerActivity::class.java))
         }
+
+        findViewById<Button>(R.id.btn_search).setOnClickListener {
+            startActivity(Intent(this,SearchActivity::class.java))
+        }
+
+        findViewById<Button>(R.id.btn_wave).setOnClickListener {
+            startActivity(Intent(this,WaveViewActivity::class.java))
+        }
+
+        findViewById<Button>(R.id.btn_heart).setOnClickListener {
+            startActivity(Intent(this,HeartViewActivity::class.java))
+        }
     }
 
 

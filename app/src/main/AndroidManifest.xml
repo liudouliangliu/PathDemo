@@ -34,6 +34,9 @@
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
             android:screenOrientation="portrait"/>
         <activity android:name=".SpannerActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".WaveViewActivity" />
+        <activity android:name=".HeartViewActivity" />
     </application>
 
 </manifest>

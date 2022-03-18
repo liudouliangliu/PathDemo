@@ -9,6 +9,9 @@
     <string name="switch_spanner_type">重新开始动画</string>
     <string name="spanner">轮播图</string>
     <string name="video_sample">简单播放</string>
+    <string name="btn_search">搜索动画</string>
+    <string name="btn_wave">wave动画</string>
+    <string name="btn_heart">心形动画</string>
     <string name="issuing_agency">发证机构</string>
     <string name="permit_number">许可证编号</string>
     <string name="legal_representative">法定代表人</string>
