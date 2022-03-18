@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">VideoPlayerDemo</string>
+    <string name="base_info">基本信息</string>
+    <string name="transfer_duplicate">转移联单</string>
+    <string name="licence">许可证</string>
+
+    <string name="permit">许可证</string>
+    <string name="video_list">列表播放</string>
+    <string name="switch_spanner_type">重新开始动画</string>
+    <string name="spanner">轮播图</string>
+    <string name="video_sample">简单播放</string>
+    <string name="issuing_agency">发证机构</string>
+    <string name="permit_number">许可证编号</string>
+    <string name="legal_representative">法定代表人</string>
+    <string name="address_waste_management_facility">废物经营设施地址</string>
+    <string name="contaminated_control_book">污染防治责任登记书</string>
+    <string name="waste_control_book">产废企业管理计划</string>
+    <string name="select_time_solt">选择时间段</string>
+    <string name="management_control_book">经营企业管理计划</string>
+    <string name="waste_managementFacility_zip_code">废物经营设施邮编</string>
+    <string name="date_initial_issuance">初次发证日期</string>
+    <string name="date_issue">发证日期</string>
+    <string name="administrative">行政区划</string>
+    <string name="year_select">年份</string>
+    <string name="back">返回</string>
+    <string name="return_text">退回</string>
+    <string name="state_select">状态</string>
+    <string name="mode_operation">经营方式</string>
+    <string name="type">类型</string>
+    <string name="workbench">工作台</string>
+    <string name="license_validity_period">许可证有效期</string>
+    <string name="approved_business_category_description">核准经营类别描述</string>
+    <string name="original_license">许可证正本</string>
+    <string name="view_image">查看图片</string>
+    <string name="alarm_details">告警详情</string>
+    <string name="company_name">单位名称</string>
+    <string name="alert_type">告警类型</string>
+    <string name="video_surveillance">视频监控</string>
+    <string name="detail">详情</string>
+    <string name="check_log">查看日志</string>
+    <string name="alarm_description">告警描述</string>
+    <string name="alarm_occurrence_time">告警发生时间</string>
+    <string name="alarm_record_time">告警记录时间</string>
+    <string name="state">状态</string>
+    <string name="processing_time">处理时间</string>
+    <string name="all">全部</string>
+    <string name="processing_agency">处理机构</string>
+
+    <string name="title_statistics_rank">统计排名</string>
+    <string name="annual_report_rate_district">区县企业年报上报率</string>
+    <string name="transfer_receipt_quantity_statistics">转移联单数量统计</string>
+    <string name="ranking_waste_production_enterprises">产废企业排名</string>
+    <string name="ranking_disposal_units">处置单位排名</string>
+
+    <string name="particular_year">年份</string>
+    <string name="particular_month">月份</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+    <string name="search">搜索</string>
+    <string name="deal_time">操作时间</string>
+    <string name="select_time">选择时间</string>
+    <string name="select_area">选择区域</string>
+    <string name="city">市</string>
+    <string name="county">区县</string>
+    <string name="year_month_show">%s年%s月</string>
+    <string name="year_show">%s年</string>
+
+    <string name="transfer">转移联单</string>
+    <string name="cityInside">本市内接收</string>
+    <string name="upload_enclosure">上传附件</string>
+    <string name="cityOutside">市外接收</string>
+    <string name="image_play_title">查看大图</string>
+    <string name="time_solt_select">时间段选择</string>
+    <string name="transferCount">合计</string>
+
+    <string name="responsiblity_register">污染防治责任书登记</string>
+    <string name="waste_manager">产废管理计划</string>
+    <string name="management_play">经营管理计划</string>
+    <string name="management_company_play">经营企业管理计划</string>
+    <string name="monthly_select">月度报告查询</string>
+    <string name="license_query">许可证查询</string>
+    <string name="real_time_video">实时监控</string>
+    <string name="history_video">历史视频</string>
+
+    <string name="alarm_untreated">未处理列表</string>
+    <string name="alarm_treatment">已处理列表</string>
+    <string name="enter_info_about_enterprise_and_vehicle_num">请输入企业名称或车牌号</string>
+    <string name="todo">TODO</string>
+    <string name="enterprise_waste">危废企业</string>
+    <string name="enterprise_business">经营企业</string>
+    <string name="enterprise_transport">运输企业</string>
+    <string name="transport_vehicle">运输车辆</string>
+    <string name="alarm_data">告警日期</string>
+    <string name="select_data">日期</string>
+    <string name="enterprise_name">企业名称</string>
+    <string name="deal_with">处理</string>
+    <string name="processor">处理人</string>
+    <string name="process_instructions">处理说明</string>
+    <string name="alarm_deal_with">告警处置</string>
+    <string name="submit">提交</string>
+    <string name="please_processing_instructions">请填写处理说明</string>
+    <string name="please_processing_time">请选择处理时间</string>
+    <string name="video_history">历史视频</string>
+    <string name="time_slot">时间段</string>
+
+    <string name="sun">日</string>
+    <string name="mon">一</string>
+    <string name="tue">二</string>
+    <string name="wed">三</string>
+    <string name="thu">四</string>
+    <string name="fri">五</string>
+    <string name="sat">六</string>
+
+
+    <string name="net_work_slow" translatable="false">网络不给力</string>
+    <string name="net_error" translatable="false">网络错误</string>
+    <string name="result_empty" translatable="false">暂无数据</string>
+    <string name="error_message_json_empty" translatable="false">解析数据为空</string>
+    <string name="error_message_unknown" translatable="false">未知错误，请稍后重试</string>
+    <string name="error_message_time_out" translatable="false">超时错误，请稍后重试</string>
+    <string name="error_message_net_connect" translatable="false">当前网络连接错误，请稍后重试</string>
+
+    <string name="header_refresh_ing" translatable="false">刷新中</string>
+    <string name="header_refresh_finish" translatable="false">刷新完成</string>
+    <string name="header_refresh_release" translatable="false">松开刷新</string>
+    <string name="footer_load_more_ing" translatable="false">正在加载</string>
+    <string name="footer_load_more_finish" translatable="false">加载完成</string>
+
+    <string name="default_header_failed">刷新失败</string>
+    <string name="default_header_finish">刷新完成</string>
+    <string name="default_header_loading">等待底部加载完成</string>
+    <string name="default_header_pulling">下拉可以刷新</string>
+    <string name="default_header_refreshing">正在刷新</string>
+    <string name="default_header_release">释放立即刷新</string>
+    <string name="default_header_update">上次更新 MM-dd HH:mm:ss</string>
+
+</resources>
